@@ -62,4 +62,4 @@ print(df[df['Needs_Check']][['Equipment', 'Temperature', 'Status']])
 # 6. EXPORT RESULTS
 # =====================================
 df.to_excel('sensor_data_analyzed.xlsx', index=False)
-print("\nResults saved to sensor_data_analyzed.csv")
+print("\nResults saved to sensor_data_analyzed.xlsx")
