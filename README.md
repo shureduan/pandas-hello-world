@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python simple_analysis.py
+python process_sensor_data.py
 ```
 
 ## Files
